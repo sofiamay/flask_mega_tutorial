@@ -1,5 +1,7 @@
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+config.py
 
 /flask
+/app/__pycache__
